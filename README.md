@@ -61,14 +61,4 @@
 ![MQL](https://img.shields.io/badge/MQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Apresentação Pessoal
-This project is built using various technologies.
-
-## Technologies
-- Razor
-- Angular
-- React
-- ASP.NET
-- .NET Core
-- Frameworkers
-- SQL Server
-- Oracle
+Em andamento.

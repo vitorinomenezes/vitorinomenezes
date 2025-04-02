@@ -1,5 +1,8 @@
 # João Vitorino Menezes Neto
 
+## Apresentação Pessoal
+Em andamento.
+
 ## Conhecimentos e Experiencia Técnica 
 
 ## Front End   
@@ -60,5 +63,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MQL](https://img.shields.io/badge/MQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Apresentação Pessoal
-Em andamento.
+
+<div class="row">
+<div class="col" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+    <h3>ORM</h3>
+    <p>EntityFramework, Dapper.</p>
+</div>
+
+<div class="col" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+    <h3>CLOUD</h3>
+    <p>Azure, CI/CD. Noções de AWS.</p>
+</div>
+
+<div class="col" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+    <h3>IA GENERATIVA</h3>
+    <p>BlackBox, Github Copilot.</p>
+</div>
+
+</div>
+
+

@@ -50,7 +50,7 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 # Banco de dados
-{MsSqlServer, Oracle, Postgress, PLSQL,  DDL, DML, Procedures, Functions, Triggers, MongoDB, MQL }
+## { MsSqlServer, Oracle, Postgress, PLSQL,  DDL, DML, Procedures, Functions, Triggers, MongoDB, MQL }
 
 ## Banco de dados
 

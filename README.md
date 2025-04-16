@@ -49,6 +49,9 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+# Banco de dados
+{MsSqlServer, Oracle, Postgress, PLSQL,  DDL, DML, Procedures, Functions, Triggers, MongoDB, MQL }
+
 ## Banco de dados
 
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)

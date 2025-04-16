@@ -8,6 +8,11 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 
 # Front End   
 
+<div>
+    <label>JavaScript</label>
+<i class='fas fa-save'></i>  
+</div>
+
 # ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)

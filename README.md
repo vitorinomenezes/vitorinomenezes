@@ -8,7 +8,7 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 
 # Front End   
 
-<div>
+<div style="background-color: #1E90FF !important;">
     <label>JavaScript</label>
 <i class='fas fa-save'></i>  
 </div>

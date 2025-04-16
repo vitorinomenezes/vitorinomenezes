@@ -1,6 +1,6 @@
 # João Vitorino Menezes Neto
 
-## Apresentação Pessoal
+# Apresentação Pessoal
 Meu nome é João Vitorino Menezes Neto, eu tenho 54 anos, atuo na área de desenvolvimento de sistemas desde 1996.Venho nesse período trabalhando em muitos projetos legados com tecnologia Microsoft, mas precisamente com C# e frameworkers, porem já implementei e mantive sistemas em outras linguagens, tais como Delphi, Java, PHP, Visual Object, e outros.
 Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me mantendo atualizado.
 

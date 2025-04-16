@@ -8,7 +8,7 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 
 # Front End   
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+#![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-4B8BBE?style=flat-square&logo=dotnet&logoColor=white)

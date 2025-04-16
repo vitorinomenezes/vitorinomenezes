@@ -4,9 +4,9 @@
 Meu nome é João Vitorino Menezes Neto, eu tenho 54 anos, atuo na área de desenvolvimento de sistemas desde 1996.Venho nesse período trabalhando em muitos projetos legados com tecnologia Microsoft, mas precisamente com C# e frameworkers, porem já implementei e mantive sistemas em outras linguagens, tais como Delphi, Java, PHP, Visual Object, e outros.
 Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me mantendo atualizado.
 
-## Conhecimentos e Experiencia Técnica 
+# Conhecimentos e Experiencia Técnica 
 
-## Front End   
+# Front End   
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
@@ -21,7 +21,7 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Back-End
+# Back-End
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D8D?style=flat-square&logo=.net&logoColor=white)

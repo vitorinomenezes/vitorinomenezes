@@ -84,14 +84,14 @@ ANGULAR. Autorizações e autenticações com JWT. Integrações e APIS, ORACLE,
 Análise técnica para resolução imediata de problemas sustentação.
 
 ## RENOVA SOLUÇÕES TECNOLOGICAS - PERÍODO	03/2020 Ate 01/2022
-### CARGO	Analista Desenvolvedor FullStack 	
+### CARGO -	Analista Desenvolvedor FullStack 	
 ### Atividades - Analise desenvolvimento, metodologia scrum 
 C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, ANGULAR, DDD, XUNIT. Autorizações e autenticações com JWT. \
 MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML, PLSQL. \
 Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado .
 
 ## CAPGEMINI BRASIL SA  - 2018 a 2020
-### CARGO	Analista Desenvolvedor .NET
+### CARGO -	Analista Desenvolvedor .NET
 ### Atividades - Analise desenvolvimento, metodologia scrum 
 C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, ANGULAR, DDD. Autorizações e autenticações com JWT. \
 MSSQLSERVER , ORACLE MONGODB. DDL, DML,  PLSQL. \

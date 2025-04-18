@@ -74,19 +74,27 @@ Golang
 
 # Experiencias Profisionais mais Releventes
 
-## EMPRESA	INDRA TECNOLOGIA - PERÍODO	10/2022 Ate 11/2024
+## INDRA TECNOLOGIA - PERÍODO	10/2022 Ate 11/2024
 ### CARGO	- Analista Desenvolvedor FullStack
 ### Atividades - Analise desenvolvimento de sistemas, metodologia scrum 
 C# .NET Core AspNet, Razor, jquery, js. NetCore 3.1 jquery bootrstrap, \
 ANGULAR. Autorizações e autenticações com JWT. Integrações e APIS, ORACLE, PLSQL, Crystal Report, DDD.\
 Análise técnica para resolução imediata de problemas sustentação
 
-## EMPRESA	RENOVA SOLUÇÕES TECNOLOGICAS - PERÍODO	03/2018 Ate 01/2022
+## RENOVA SOLUÇÕES TECNOLOGICAS - PERÍODO	03/2018 Ate 01/2022
 ### CARGO	Analista Desenvolvedor FullStack 	
 ### Atividades - Analise desenvolvimento, metodologia scrum 
 C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, DDD, XUNIT \
 MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML \
 Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado 
+
+## CAPGEMINI BRASIL SA  - 2019 a 2022
+### CARGO	Analista Desenvolvedor .NET
+### Atividades - Analise desenvolvimento, metodologia scrum 
+C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, DDD \
+SQLSERVER , ORACLE MONGODB. \
+Analise desenvolvimento testes unitarios scrum, dedicado a manutenções e implementações na SEFAZ, SESC e GENERALY
+
 
 
 

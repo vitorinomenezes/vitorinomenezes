@@ -73,10 +73,21 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 Golang 
 
 # Experiencias Profisionais mais Releventes
-## EMPRESA	INDRA TECNOLOGIA 
-CARGO	Analista Desenvolvedor/Sustentação	PERÍODO	10/2022 Ate 11/2024
-LIGUAGENS	Analise desenvolvimento scrum
-C# NET Core AspNet, Razor, jquery, js. NetCore 3.1 jquery bootrstrap, ANGULAR. Análise técnica para resolução imediata de problemas sustentação.Integrações e APIS, ORACLE, PLSQL, Crystal Report.
+
+## EMPRESA	INDRA TECNOLOGIA - PERÍODO	10/2022 Ate 11/2024
+### CARGO	- Analista Desenvolvedor FullStack
+### Atividades - Analise desenvolvimento de sistemas, metodologia scrum 
+C# .NET Core AspNet, Razor, jquery, js. NetCore 3.1 jquery bootrstrap, \
+ANGULAR. Autorizações e autenticações com JWT. Integrações e APIS, ORACLE, PLSQL, Crystal Report, DDD.\
+Análise técnica para resolução imediata de problemas sustentação
+
+## EMPRESA	RENOVA SOLUÇÕES TECNOLOGICAS - PERÍODO	03/2018 Ate 01/2022
+### CARGO	Analista Desenvolvedor FullStack 	
+### Atividades - Analise desenvolvimento, metodologia scrum 
+C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, DDD, XUNIT \
+MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML \
+Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado \
+
 
 
 

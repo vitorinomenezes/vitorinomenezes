@@ -84,16 +84,16 @@ Análise técnica para resolução imediata de problemas sustentação
 ## RENOVA SOLUÇÕES TECNOLOGICAS - PERÍODO	03/2018 Ate 01/2022
 ### CARGO	Analista Desenvolvedor FullStack 	
 ### Atividades - Analise desenvolvimento, metodologia scrum 
-C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, DDD, XUNIT \
-MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML \
+C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, DDD, XUNIT. Autorizações e autenticações com JWT \
+MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML, PLSQL \
 Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado 
 
 ## CAPGEMINI BRASIL SA  - 2019 a 2022
 ### CARGO	Analista Desenvolvedor .NET
 ### Atividades - Analise desenvolvimento, metodologia scrum 
-C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, DDD \
-SQLSERVER , ORACLE MONGODB. \
-Analise desenvolvimento testes unitarios scrum, dedicado a manutenções e implementações na SEFAZ, SESC e GENERALY
+C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, DDD.Autorizações e autenticações com JWT \
+MSSQLSERVER , ORACLE MONGODB.DDL, DML,  PLSQL \
+Analise desenvolvimento, testes unitarios. Dedicado a manutenções e implementações na SEFAZ, SESC e GENERALY
 
 
 

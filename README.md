@@ -86,7 +86,7 @@ Análise técnica para resolução imediata de problemas sustentação
 ### Atividades - Analise desenvolvimento, metodologia scrum 
 C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, DDD, XUNIT \
 MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML \
-Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado \
+Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado 
 
 
 

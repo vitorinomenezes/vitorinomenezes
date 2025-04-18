@@ -79,23 +79,23 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 ## INDRA TECNOLOGIA - PERÍODO	10/2022 Ate 11/2024
 ### CARGO	- Analista Desenvolvedor FullStack
 ### Atividades - Analise desenvolvimento de sistemas, metodologia scrum 
-C# .NET Core AspNet, Razor, jquery, js. NetCore 3.1 jquery bootrstrap, ANGULAR\
-ANGULAR. Autorizações e autenticações com JWT. Integrações e APIS, ORACLE, PLSQL, Crystal Report, DDD.\
-Análise técnica para resolução imediata de problemas sustentação
+C# .NET Core AspNet, Razor, jquery, js. NetCore 3.1 jquery bootrstrap, ANGULAR.\
+ANGULAR. Autorizações e autenticações com JWT. Integrações e APIS, ORACLE, PLSQL, Crystal Report, DDD. Autorizações e autenticações com JWT.\
+Análise técnica para resolução imediata de problemas sustentação.
 
 ## RENOVA SOLUÇÕES TECNOLOGICAS - PERÍODO	03/2020 Ate 01/2022
 ### CARGO	Analista Desenvolvedor FullStack 	
 ### Atividades - Analise desenvolvimento, metodologia scrum 
-C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, ANGULAR, DDD, XUNIT. Autorizações e autenticações com JWT \
-MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML, PLSQL \
-Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado 
+C# NetCore 3.1 jquery bootrstrap razor blazor. DDD, APIRESTFULL, ASPNET, Windows Forms, WPF, ANGULAR, DDD, XUNIT. Autorizações e autenticações com JWT. \
+MSSQLSERVER ORACLE, PROCEDURES, VIEWS, DDL, DML, PLSQL. \
+Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicações internas, bem como manutenção do legado .
 
 ## CAPGEMINI BRASIL SA  - 2018 a 2020
 ### CARGO	Analista Desenvolvedor .NET
 ### Atividades - Analise desenvolvimento, metodologia scrum 
-C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, ANGULAR, DDD.Autorizações e autenticações com JWT \
-MSSQLSERVER , ORACLE MONGODB. DDL, DML,  PLSQL \
-Analise desenvolvimento, testes unitarios. Dedicado a manutenções e implementações na SEFAZ, SESC e GENERALY
+C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, ANGULAR, DDD. Autorizações e autenticações com JWT. \
+MSSQLSERVER , ORACLE MONGODB. DDL, DML,  PLSQL. \
+Analise desenvolvimento, testes unitarios. Dedicado a manutenções e implementações na SEFAZ, SESC e GENERALY.
 
 
 

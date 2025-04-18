@@ -69,7 +69,7 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 </div>
 
 <div class="col" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-    <h3>Tecnologia em estudo</h3>
+    <h3>TECNOLOGIA EM ESTUDO</h3>
     <p>Golang</p>
 </div>
 </div>

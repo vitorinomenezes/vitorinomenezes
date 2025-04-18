@@ -72,7 +72,7 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 # Tecnologia em estudo
 Golang 
 
-# Experiencias Profisionais mais Releventes
+# Experiencias Profisionais Recentes
 
 ## INDRA TECNOLOGIA - PERÍODO	10/2022 Ate 11/2024
 ### CARGO	- Analista Desenvolvedor FullStack
@@ -94,6 +94,8 @@ Levantamento de requisitos, analise, arquitetura e desenvolviemnto das aplicaç�
 C#, .net v5.0, APIRESTFULL, SWAGGER, Rabbit, jquery bootrstrap razor blazor, Umbraco, DDD.Autorizações e autenticações com JWT \
 MSSQLSERVER , ORACLE MONGODB. DDL, DML,  PLSQL \
 Analise desenvolvimento, testes unitarios. Dedicado a manutenções e implementações na SEFAZ, SESC e GENERALY
+
+
 
 
 

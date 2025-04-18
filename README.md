@@ -72,4 +72,11 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
 # Tecnologia em estudo
 Golang 
 
+# Experiencias Profisionais mais Releventes
+## EMPRESA	INDRA TECNOLOGIA 
+CARGO	Analista Desenvolvedor/Sustentação	PERÍODO	10/2022 Ate 11/2024
+LIGUAGENS	Analise desenvolvimento scrum
+C# NET Core AspNet, Razor, jquery, js. NetCore 3.1 jquery bootrstrap, ANGULAR. Análise técnica para resolução imediata de problemas sustentação.Integrações e APIS, ORACLE, PLSQL, Crystal Report.
+
+
 

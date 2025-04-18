@@ -67,10 +67,12 @@ Focado em produtividade, trabalho em equipe e prazos, estudando bastante, e me m
     <h3>IA GENERATIVA</h3>
     <p>BlackBox, Github Copilot.</p>
 </div>
-</div>
 
-# Tecnologia em estudo
-Golang 
+<div class="col" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+    <h3>Tecnologia em estudo</h3>
+    <p>Golang</p>
+</div>
+</div>
 
 # Experiencias Profisionais Recentes
 
